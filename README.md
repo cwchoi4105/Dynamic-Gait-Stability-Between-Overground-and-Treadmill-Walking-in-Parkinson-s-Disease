@@ -9,7 +9,7 @@ Although dynamic gait stability is known to vary across gait cycle phases, most 
 
 | File | Description |
 |---|---|
-| `README.md` | Provides information about the task, repository files, and setup instructions. |
+| `README.md` | Provides information about the study, repository files, and research setup scheme. |
 | `SPM_plot.ipynb` | Main script used to generate figures. |
 | `Data file folder` | CSV files date for the SPM_plot.ipynb. |
 | `Figures folder` | Result figures |
