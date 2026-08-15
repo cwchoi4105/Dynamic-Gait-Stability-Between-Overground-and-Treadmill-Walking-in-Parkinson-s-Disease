@@ -5,6 +5,8 @@ Although dynamic gait stability is known to vary across gait cycle phases, most 
 
 <img width="3013" height="1685" alt="Image" src="https://github.com/user-attachments/assets/c2219f74-485e-4560-a075-f5491d784bef" />
 
+> **Note:** Experimental setup showing (a) the overground walking condition, where participants with Parkinson’s disease (PD) walked across a 10-meter walkway and (b) the treadmill condition, where participants with PD walked on a treadmill under the same motion capture system. For both walking conditions, each participant chose the preferred gait speed. A 9-camera motion capture system collected their full-body kinematics.
+
 ## Repository Contents
 
 | File | Description |
